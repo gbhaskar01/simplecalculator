@@ -1,2 +1,2 @@
 # Simple Calculator
-Website Link: [Simple Calculator](https://github.com/gbhaskar01/simplecalculator)
+Website Link: [Simple Calculator](https://gbhaskar01.github.io/simplecalculator/)
